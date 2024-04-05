@@ -2,13 +2,14 @@
 
 https://www.codecademy.com/users/luismendes070/achievements
 
-https://github.com/luismendes070/laravel
+GitHub Pages static frontend 
+https://luismendes070.github.io/laravel/
+<br>
+repository https://github.com/luismendes070/laravel
+
 
 OpenSource
 https://github.com/luismendes070/phpunit-documentation-brazilian-portuguese/network/members
-
-PHP Heroku demo
-https://fast-depths-48448.herokuapp.com/
 
 Teste Programador PHP JSON MYSQL
 
